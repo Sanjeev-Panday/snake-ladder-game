@@ -1,7 +1,9 @@
 # snake-ladder-game 
 ## UML Diagram
 
-<img width="1205" alt="image" src="https://user-images.githubusercontent.com/32551150/192149121-38af1ea5-788b-44e9-9cf2-639fcd145e51.png">
+
+![UML](https://user-images.githubusercontent.com/32551150/192178653-e8bb5bed-720a-41e2-b2a2-84555eb7e05e.png)
+
 
 # Defaults Used
 1. Board Size : 10 ( 10 * 10 )
